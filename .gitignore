@@ -1,0 +1,11 @@
+# R session
+.Rhistory
+.RData
+.Rproj.user/
+
+# Windows 
+desktop.ini
+Thumbs.db
+
+# Word/Excel temporary lock files (created while a document is open)
+~$*

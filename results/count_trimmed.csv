@@ -1,0 +1,7 @@
+"","Query_sashimi","Tilapia_Oniloticus_MN756471","Hirame_Polivaceus_MH032483","Sake_Ssalar_MZ407797","Hamachi_Squinq_NC016868","Maguro_Talbacares_PQ812466"
+"Query_sashimi",0,0,106,93,106,89
+"Tilapia_Oniloticus_MN756471",0,0,106,93,106,89
+"Hirame_Polivaceus_MH032483",106,106,0,109,92,98
+"Sake_Ssalar_MZ407797",93,93,109,0,98,96
+"Hamachi_Squinq_NC016868",106,106,92,98,0,91
+"Maguro_Talbacares_PQ812466",89,89,98,96,91,0
